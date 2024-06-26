@@ -1,0 +1,4 @@
+repository "CookCrazyRep@dealtime@cloud"
+  path "/"
+    br "/main"
+    co "/main"
